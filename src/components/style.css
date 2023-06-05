@@ -1,0 +1,93 @@
+.red{
+    background: blue;
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+
+
+.yellow{
+    background: yellow;
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+
+.green{
+    background: rgb(206, 66, 206);
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+
+.orange{
+    background: orange;
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+.blue{
+    background: green;
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+.brown{
+    background: pink;
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+.black{
+    background: gray;
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+.blueviolet{
+    background: red;
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+.chartreuse{
+    background: darkcyan;
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
+
+.darkturquoise{
+    background: rgb(217, 76, 239);
+    border: none;
+    width: 300px;
+    height: 100px;
+    font-size: 26px; 
+    color: white;
+}
